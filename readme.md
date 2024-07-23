@@ -1,16 +1,8 @@
 # Cannabis Product Suppliers Directory
 
-## Overview
+## Introduction
 
-This directory provides a comprehensive list of cannabis product suppliers, focusing on various cannabinoids including Delta-8, THC-O, CBD, and others. It's designed to help businesses and consumers find reliable sources for a wide range of cannabis-derived products.
-
-## Table of Contents
-
-1. [Featured Suppliers](#featured-suppliers)
-2. [Product Categories](#product-categories)
-3. [Supplier Directory](#supplier-directory)
-4. [Cannabinoid Availability Chart](#cannabinoid-availability-chart)
-5. [Disclaimer](#disclaimer)
+This comprehensive directory provides an overview of reputable cannabis product suppliers, focusing on various cannabinoids including Delta-8, THC-O, CBD, and others. Our goal is to help businesses and consumers find reliable sources for a wide range of cannabis-derived products. Each supplier has been included based on their product offerings, reputation, and market presence.
 
 ## Featured Suppliers
 
@@ -18,18 +10,22 @@ This directory provides a comprehensive list of cannabis product suppliers, focu
 
 - **Products**: Bulk THC-O Acetate Distillate (Honey Gold Oil)
 - **Uses**: Ideal for dabbing, filling carts, and making edibles
+- **Unique Selling Point**: Specializes in high-quality THC-O products
 - **Website**: [ghostvapors.com](https://ghostvapors.com)
 
 ### 2. CannaAid
 
-- **Products**: Delta-8 THC distillates (Strains: Granddaddy Purp, Durban Poison, White Widow)
+- **Products**: Delta-8 THC distillates
+- **Strains**: Granddaddy Purp, Durban Poison, White Widow
 - **Features**: Potent distillates suitable for multiple applications
+- **Unique Selling Point**: Strain-specific Delta-8 offerings
 - **Website**: [cannaaid.com](https://cannaaid.com)
 
 ### 3. Extract Labs
 
 - **Products**: Bulk Delta-8 Distillate
 - **Uses**: Ready for use in vape formulations and more
+- **Unique Selling Point**: Focus on high-quality, lab-tested products
 - **Website**: [extractlabs.com](https://extractlabs.com)
 
 ### 4. Fresh Bros
@@ -37,214 +33,219 @@ This directory provides a comprehensive list of cannabis product suppliers, focu
 - **Products**: Delta-8 Distillate
 - **Features**: Known for high potency and quality
 - **Service**: Excellent customer service reputation
+- **Unique Selling Point**: Combination of quality products and superior customer care
 - **Website**: [freshbros.com](https://freshbros.com)
 
 ### 5. Vivimu
 
-- **Overview**: Competitor to cannaclear.com
-- **Offerings**: Range includes THC-O and other cannabinoid products
+- **Offerings**: THC-O and various cannabinoid products
+- **Unique Selling Point**: Wide variety of cannabinoid options
 - **Website**: [vivimu.com](https://vivimu.com)
 
-## Product Categories
+## All Suppliers
 
-- **Distillates**: High-purity extracts for various applications.
-- **Vape Cartridges**: Pre-filled cartridges for vaping.
-- **Edibles**: Consumable products like gummies and chocolates.
-- **Tinctures**: Liquid extracts for sublingual use.
-- **Flowers**: Raw cannabis flowers for smoking or vaporizing.
-- **Concentrates**: High-potency extracts like wax and shatter.
-- **Topicals**: Creams and balms for topical application.
+### 6. CBD Farmhouse
 
-## Supplier Directory
+- **Products**: CBD, Delta-8, Delta-9, HHC, and potentially THC-O
+- **Unique Selling Point**: Diverse range of cannabinoid products
+- **Website**: [cbdfarmhouse.com](https://cbdfarmhouse.com)
 
-This section lists all suppliers alphabetically, including their specialties and website links.
+### 7. Buy Delta 8 Online
 
-1. **8delta8**
+- **Specialty**: Delta-8 THC products with potential THC-O offerings
+- **Unique Selling Point**: Focused on Delta-8 products
+- **Website**: [buydelta8online.com](https://buydelta8online.com)
 
-   - **Focus**: Delta-8 THC products, exploring THC-O options
-   - **Website**: [8delta8.com](https://8delta8.com)
+### 8. 8delta8
 
-2. **Area52**
+- **Focus**: Delta-8 THC products, exploring THC-O options
+- **Unique Selling Point**: Specializes in Delta-8 with expanding product line
+- **Website**: [8delta8.com](https://8delta8.com)
 
-   - **Reputation**: Well-known for cannabinoid products, potential THC-O offerings
-   - **Website**: [area52.com](https://area52.com)
+### 9. Snapdragon Hemp
 
-3. **Bay Smokes**
+- **Range**: Delta-8 and potential THC-O products
+- **Unique Selling Point**: Hemp-derived cannabinoid products
+- **Website**: [snapdragonhemp.com](https://snapdragonhemp.com)
 
-   - **Variety**: Specializes in cannabinoids including potential THC-O
-   - **Website**: [baysmokes.com](https://baysmokes.com)
+### 10. Fluxxlab
 
-4. **Bearly Legal Hemp**
+- **Products**: Broad range of cannabinoids, highlighting high-potency CBD and potentially THC-O
+- **Unique Selling Point**: Focus on potency and variety
+- **Website**: [fluxxlab.com](https://fluxxlab.com)
 
-   - **Specialization**: THC-O vapes, using 100% hemp-derived THC-O
-   - **Website**: [bearlylegalhemp.com](https://bearlylegalhemp.com)
+### 11. Bulk CBD Distributors
 
-5. **Binoid**
+- **Wholesale**: Supplier of CBD and hemp products, likely offering THC-O
+- **Unique Selling Point**: Bulk and wholesale options
+- **Website**: [bulkcbddistributors.com](https://bulkcbddistributors.com)
 
-   - **Products**: THC-O vape cartridges in different strains
-   - **Website**: [binoid.com](https://binoid.com)
+### 12. The Hemp Connection
 
-6. **Bulk CBD Distributors**
+- **Selection**: Offers various cannabinoids including potential THC-O
+- **Unique Selling Point**: Wide selection of hemp-derived products
+- **Website**: [thehempconnection.org](https://thehempconnection.org)
 
-   - **Wholesale**: Supplier of CBD and hemp products, likely offering THC-O
-   - **Website**: [bulkcbddistributors.com](https://bulkcbddistributors.com)
+### 13. Bay Smokes
 
-7. **Buy Delta 8 Online**
+- **Variety**: Specializes in cannabinoids including potential THC-O
+- **Unique Selling Point**: Diverse product range
+- **Website**: [baysmokes.com](https://baysmokes.com)
 
-   - **Specialty**: Delta-8 THC products with potential THC-O offerings
-   - **Website**: [buydelta8online.com](https://buydelta8online.com)
+### 14. Mountain Strong Hemp
 
-8. **CBD Farmhouse**
+- **Products**: High-quality CBD hemp flower, Delta-8, and potentially THC-O
+- **Unique Selling Point**: Focus on hemp flower products
+- **Website**: [mountainstronghemp.com](https://mountainstronghemp.com)
 
-   - **Products**: CBD, Delta-8, Delta-9, HHC, and potentially THC-O
-   - **Website**: [cbdfarmhouse.com](https://cbdfarmhouse.com)
+### 15. Area52
 
-9. **CannaClear**
+- **Reputation**: Well-known for cannabinoid products, potential THC-O offerings
+- **Unique Selling Point**: Established brand in the cannabinoid market
+- **Website**: [area52.com](https://area52.com)
 
-   - **Range**: Delta-8 THC products like gummies and tinctures, emphasizing quality
-   - **Website**: [cannaclear.com](https://cannaclear.com)
+### 16. Utoya
 
-10. **DazeD8**
+- **Focus**: Cannabinoid products including possible THC-O variants
+- **Unique Selling Point**: Diverse cannabinoid offerings
+- **Website**: [utoya.com](https://utoya.com)
 
-    - **Features**: Vape mixes with cannabinoids including THC-O, noted for potency
-    - **Website**: [dazed8.com](https://dazed8.com)
+### 17. Binoid
 
-11. **Everyone Does It**
+- **Products**: THC-O vape cartridges in different strains
+- **Unique Selling Point**: Strain-specific THC-O vape products
+- **Website**: [binoid.com](https://binoid.com)
 
-    - **Selection**: Wide array of cannabis-related products, potentially including THC-O
-    - **Website**: [everyonedoesit.com](https://everyonedoesit.com)
+### 18. Leafly
 
-12. **Extract Labs**
+- **Platform**: Offers THC-O and other cannabis products, with dispensary info
+- **Unique Selling Point**: Comprehensive cannabis information platform
+- **Website**: [leafly.com](https://leafly.com)
 
-    - **Products**: Bulk Delta-8 Distillate
-    - **Uses**: Ready for use in vape formulations and more
-    - **Website**: [extractlabs.com](https://extractlabs.com)
+### 19. DazeD8
 
-13. **Fern Valley Farms**
+- **Features**: Vape mixes with cannabinoids including THC-O, noted for potency
+- **Unique Selling Point**: High-potency vape products
+- **Website**: [dazed8.com](https://dazed8.com)
 
-    - **Products**: Delta-8 Distillate with various terpenes for customized effects
-    - **Website**: [fernvalleyfarms.com](https://fernvalleyfarms.com)
+### 20. Infinite
 
-14. **Fluxxlab**
+- **Products**: Reliable THC-O vape cartridges, quality selection
+- **Unique Selling Point**: Focus on quality THC-O vape products
+- **Website**: [infinite.com](https://infinite.com)
 
-    - **Products**: Broad range of cannabinoids, highlighting high-potency CBD and potentially THC-O
-    - **Website**: [fluxxlab.com](https://fluxxlab.com)
+### 21. Bearly Legal Hemp
 
-15. **Fresh Bros**
+- **Specialization**: THC-O vapes, using 100% hemp-derived THC-O
+- **Unique Selling Point**: Emphasis on hemp-derived THC-O products
+- **Website**: [bearlylegalhemp.com](https://bearlylegalhemp.com)
 
-    - **Products**: Delta-8 Distillate
-    - **Features**: Known for high potency and quality
-    - **Service**: Excellent customer service reputation
-    - **Website**: [freshbros.com](https://freshbros.com)
+### 22. Utoya Organics
 
-16. **Gilded Extracts**
+- **Range**: Includes THC-O tinctures, beverages, and edibles
+- **Unique Selling Point**: Diverse THC-O product formats
+- **Website**: [utoyaorganics.com](https://utoyaorganics.com)
 
-    - **Products**: Premium THC-O and Delta-8 products
-    - **Features**: High-quality extracts sourced from organic hemp
-    - **Website**: [gildedextracts.com](https://gildedextracts.com)
+### 23. I Love Growing Marijuana (ILGM)
 
-17. **Ghost Vapors**
+- **Recognition**: Highly regarded cannabis store, potential THC-O products
+- **Unique Selling Point**: Established reputation in cannabis community
+- **Website**: [ilgm.com](https://ilgm.com)
 
-    - **Products**: Bulk THC-O Acetate Distillate (Honey Gold Oil)
-    - **Uses**: Ideal for dabbing, filling carts, and making edibles
-    - **Website**: [ghostvapors.com](https://ghostvapors.com)
+### 24. Everyone Does It
 
-18. **Green Goddess Supply**
+- **Selection**: Wide array of cannabis-related products, potentially including THC-O
+- **Unique Selling Point**: Extensive product selection
+- **Website**: [everyonedoesit.com](https://everyonedoesit.com)
 
-    - **Offerings**: Extensive cannabis product selection, potentially THC-O
-    - **Website**: [greengoddesssupply.com](https://greengoddesssupply.com)
+### 25. Green Goddess Supply
 
-19. **I Love Growing Marijuana (ILGM)**
+- **Offerings**: Extensive cannabis product selection, potentially THC-O
+- **Unique Selling Point**: Broad range of cannabis-related products
+- **Website**: [greengoddesssupply.com](https://greengoddesssupply.com)
 
-    - **Recognition**: Highly regarded cannabis store, potential THC-O products
-    - **Website**: [ilgm.com](https://ilgm.com)
+### 26. Too Slick
 
-20. **Infinite**
+- **Range**: Diverse THC-O products including vaping, syrups, tinctures, and edibles
+- **Unique Selling Point**: Variety of THC-O consumption methods
+- **Website**: [tooslick.com](https://tooslick.com)
 
-    - **Products**: Reliable THC-O vape cartridges, quality selection
-    - **Website**: [infinite.com](https://infinite.com)
+### 27. Fern Valley Farms
 
-21. **Leafly**
+- **Products**: Delta-8 Distillate with various terpenes for customized effects
+- **Unique Selling Point**: Terpene-infused Delta-8 products
+- **Website**: [fernvalleyfarms.com](https://fernvalleyfarms.com)
 
-    - **Platform**: Offers THC-O and other cannabis products, with dispensary info
-    - **Website**: [leafly.com](https://leafly.com)
+### 28. CannaClear
 
-22. **Mountain Strong Hemp**
+- **Range**: Delta-8 THC products like gummies and tinctures, emphasizing quality
+- **Unique Selling Point**: Focus on quality Delta-8 products
+- **Website**: [cannaclear.com](https://cannaclear.com)
 
-    - **Products**: High-quality CBD hemp flower, Delta-8, and possibly THC-O
-    - **Website**: [mountainstronghemp.com](https://mountainstronghemp.com)
+### 29. GenCanna
 
-23. **Snapdragon Hemp**
+- **Specialty**: Wholesale Delta-8 products including oils, gummies, carts, and vapes
+- **Unique Selling Point**: Wholesale Delta-8 product supplier
+- **Website**: [gencanna.com](https://gencanna.com)
 
-    - **Range**: Includes Delta-8 and possibly THC-O products
-    - **Website**: [snapdragonhemp.com](https://snapdragonhemp.com)
+### 30. Smoky Mountain CBD
 
-24. **Smoky Mountain CBD**
+- **Reputation**: High customer satisfaction, quality Delta-8 products
+- **Unique Selling Point**: Customer-focused Delta-8 product provider
+- **Website**: [smokymountaincbd.com](https://smokymountaincbd.com)
 
-    - **Reputation**: High customer satisfaction, quality Delta-8 products
-    - **Website**: [smokymountaincbd.com](https://smokymountaincbd.com)
+### 31. The Hemp Collect
 
-25. **The Hemp Connection**
+- **Offerings**: Delta 8 Distillate for vaping or dabbing, prioritizing safety and potency
+- **Unique Selling Point**: Focus on safe and potent Delta-8 products
+- **Website**: [thehempcollect.com](https://thehempcollect.com)
 
-    - **Selection**: Offers various cannabinoids including potential THC-O
-    - **Website**: [thehempconnection.org](https://thehempconnection.org)
+### 32. Gilded Extracts
 
-26. **The Hemp Collect**
-
-    - **Offerings**: Delta 8 Distillate for vaping or dabbing, prioritizing safety and potency
-    - **Website**: [thehempcollect.com](https://thehempcollect.com)
-
-27. **Too Slick**
-
-    - **Range**: Diverse THC-O products including vaping, syrups, tinctures, and edibles
-    - **Website**: [tooslick.com](https://tooslick.com)
-
-28. **Utoya**
-
-    - **Focus**: Cannabinoid products including possible THC-O variants
-    - **Website**: [utoya.com](https://utoya.com)
-
-29. **Utoya Organics**
-    - **Range**: Includes THC-O tinctures, beverages, and edibles
-    - **Website**: [utoyaorganics.com](https://utoyaorganics.com)
+- **Products**: Premium THC-O and Delta-8 products
+- **Features**: High-quality extracts sourced from organic hemp
+- **Unique Selling Point**: Premium, organic hemp-derived products
+- **Website**: [gildedextracts.com](https://gildedextracts.com)
 
 ## Cannabinoid Availability Chart
 
-| Website                                                    | Delta-8 | HHC-P | HHC | THC-O | THC-A | CBD | CBN | CBG | THC-V | CBC | CBT |
-| ---------------------------------------------------------- | ------- | ----- | --- | ----- | ----- | --- | --- | --- | ----- | --- | --- |
-| [ghostvapors.com](https://ghostvapors.com)                 | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
-| [cannaaid.com](https://cannaaid.com)                       | ✓       |       |     |       |       |     |     |     |       |     |     |
-| [extractlabs.com](https://extractlabs.com)                 | ✓       |       |     |       |       |     |     |     |       |     |     |
-| [freshbros.com](https://freshbros.com)                     | ✓       |       |     |       |       |     |     |     |       |     |     |
-| [vivimu.com](https://vivimu.com)                           | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
-| [cbdfarmhouse.com](https://cbdfarmhouse.com)               | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
-| [buydelta8online.com](https://buydelta8online.com)         | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
-| [8delta8.com](https://8delta8.com)                         | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
-| [snapdragonhemp.com](https://snapdragonhemp.com)           | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
-| [fluxxlab.com](https://fluxxlab.com)                       | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
-| [bulkcbddistributors.com](https://bulkcbddistributors.com) |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
-| [thehempconnection.org](https://thehempconnection.org)     |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [baysmokes.com](https://baysmokes.com)                     |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [mountainstronghemp.com](https://mountainstronghemp.com)   |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
-| [area52.com](https://area52.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [utoya.com](https://utoya.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [binoid.com](https://binoid.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [leafly.com](https://leafly.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [dazed8.com](https://dazed8.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [infinite.com](https://infinite.com)                       |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [bearlylegalhemp.com](https://bearlylegalhemp.com)         |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [utoyaorganics.com](https://utoyaorganics.com)             |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [ilgm.com](https://ilgm.com)                               |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [everyonedoesit.com](https://everyonedoesit.com)           |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [greengoddesssupply.com](https://greengoddesssupply.com)   |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [tooslick.com](https://tooslick.com)                       |         |       |     | ✓     |       |     |     |     |       |     |     |
-| [fernvalleyfarms.com](https://fernvalleyfarms.com)         |         |       |     |       |       |     |     |     |       |     |     |
-| [cannaclear.com](https://cannaclear.com)                   | ✓       |       |     |       |       |     |     |     |       |     |     |
-| [gencanna.com](https://gencanna.com)                       | ✓       |       |     |       |       |     |     |     |       |     |     |
-| [smokymountaincbd.com](https://smokymountaincbd.com)       |         |       |     |       |       |     |     |     |       |     |     |
-| [thehempcollect.com](https://thehempcollect.com)           |         |       |     |       |       |     |     |     |       |     |     |
-| [gildedextracts.com](https://gildedextracts.com)           |         |       |     |       |       |     |     |     |       |     |     |
+| Supplier                                                 | Delta-8 | HHC-P | HHC | THC-O | THC-A | CBD | CBN | CBG | THC-V | CBC | CBT |
+| -------------------------------------------------------- | ------- | ----- | --- | ----- | ----- | --- | --- | --- | ----- | --- | --- |
+| [Ghost Vapors](https://ghostvapors.com)                  | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [CannaAid](https://cannaaid.com)                         | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [Extract Labs](https://extractlabs.com)                  | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [Fresh Bros](https://freshbros.com)                      | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [Vivimu](https://vivimu.com)                             | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [CBD Farmhouse](https://cbdfarmhouse.com)                | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [Buy Delta 8 Online](https://buydelta8online.com)        | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [8delta8](https://8delta8.com)                           | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [Snapdragon Hemp](https://snapdragonhemp.com)            | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [Fluxxlab](https://fluxxlab.com)                         | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [Bulk CBD Distributors](https://bulkcbddistributors.com) |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [The Hemp Connection](https://thehempconnection.org)     |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Bay Smokes](https://baysmokes.com)                      |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Mountain Strong Hemp](https://mountainstronghemp.com)   |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [Area52](https://area52.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Utoya](https://utoya.com)                               |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Binoid](https://binoid.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Leafly](https://leafly.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [DazeD8](https://dazed8.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Infinite](https://infinite.com)                         |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Bearly Legal Hemp](https://bearlylegalhemp.com)         |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Utoya Organics](https://utoyaorganics.com)              |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [ILGM](https://ilgm.com)                                 |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Everyone Does It](https://everyonedoesit.com)           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Green Goddess Supply](https://greengoddesssupply.com)   |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Too Slick](https://tooslick.com)                        |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [Fern Valley Farms](https://fernvalleyfarms.com)         |         |       |     |       |       |     |     |     |       |     |     |
+| [CannaClear](https://cannaclear.com)                     | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [GenCanna](https://gencanna.com)                         | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [Smoky Mountain CBD](https://smokymountaincbd.com)       |         |       |     |       |       |     |     |     |       |     |     |
+| [The Hemp Collect](https://thehempcollect.com)           |         |       |     |       |       |     |     |     |       |     |     |
+| [Gilded Extracts](https://gildedextracts.com)            |         |       |     |       |       |     |     |     |       |     |     |
 
 ## Disclaimer
 
 This directory is for informational purposes only. We do not endorse any specific supplier or product. Always verify the legality of products in your jurisdiction and consult with a healthcare professional before use. Product availability and legal status may change over time.
+
+The cannabis industry is rapidly evolving, and regulations vary by location. Consumers and businesses should conduct their own research and due diligence before making any purchases or business decisions. This directory is not a substitute for professional advice or local legal guidance.
