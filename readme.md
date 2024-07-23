@@ -1,122 +1,133 @@
 # Cannabis Product Suppliers
 
-Explore a curated list of suppliers offering THC-O and Delta-8 THC products, catering to various preferences and applications.
-
 ## Suppliers
 
 1. **Ghost Vapors**
-   - **Products**: Best Bulk THC-O Acetate Distillate (Honey Gold Oil)
+   - **Products**: Bulk THC-O Acetate Distillate (Honey Gold Oil)
    - **Uses**: Ideal for dabbing, filling carts, and making edibles
-   - **Sizes**: Available in various sizes including 100 grams
+   - **Website**: [ghostvapors.com](https://ghostvapors.com)
 
 2. **CannaAid**
-   - **Products**: Delta-8 THC distillates
-   - **Strains**: Granddaddy Purp, Durban Poison, White Widow
-   - **Format**: Potent distillates suitable for multiple applications
+   - **Products**: Delta-8 THC distillates (Strains: Granddaddy Purp, Durban Poison, White Widow)
+   - **Features**: Potent distillates suitable for multiple applications
+   - **Website**: [cannaaid.com](https://cannaaid.com)
 
 3. **Extract Labs**
    - **Products**: Bulk Delta-8 Distillate
    - **Uses**: Ready for use in vape formulations and more
-   - **Sizes**: Available in quantities including 100 grams
+   - **Website**: [extractlabs.com](https://extractlabs.com)
 
 4. **Fresh Bros**
    - **Products**: Delta-8 Distillate
    - **Features**: Known for high potency and quality
    - **Service**: Excellent customer service reputation
+   - **Website**: [freshbros.com](https://freshbros.com)
 
 5. **Vivimu**
    - **Overview**: Competitor to cannaclear.com
    - **Offerings**: Range includes THC-O and other cannabinoid products
+   - **Website**: [vivimu.com](https://vivimu.com)
 
 6. **Cbdfarmhouse.com**
    - **Products**: CBD, Delta-8, Delta-9, HHC, and potentially THC-O
+   - **Website**: [cbdfarmhouse.com](https://cbdfarmhouse.com)
 
 7. **Buydelta8online.com**
    - **Specialty**: Delta-8 THC products with potential THC-O offerings
+   - **Website**: [buydelta8online.com](https://buydelta8online.com)
 
 8. **8delta8.com**
    - **Focus**: Delta-8 THC products, exploring THC-O options
+   - **Website**: [8delta8.com](https://8delta8.com)
 
 9. **Snapdragonhemp.com**
    - **Range**: Includes Delta-8 and possibly THC-O products
+   - **Website**: [snapdragonhemp.com](https://snapdragonhemp.com)
 
 10. **Fluxxlab.com**
     - **Products**: Broad range of cannabinoids, highlighting high-potency CBD and potentially THC-O
+    - **Website**: [fluxxlab.com](https://fluxxlab.com)
 
-11. **Freshbros.com**
-    - **Specialty**: Premium CBD, Delta-8, and potential THC-O products
-
-12. **Bulkcbddistributors.com**
+11. **Bulkcbddistributors.com**
     - **Wholesale**: Supplier of CBD and hemp products, likely offering THC-O
+    - **Website**: [bulkcbddistributors.com](https://bulkcbddistributors.com)
 
-13. **Thehempconnection.org**
+12. **Thehempconnection.org**
     - **Selection**: Offers various cannabinoids including potential THC-O
+    - **Website**: [thehempconnection.org](https://thehempconnection.org)
 
-14. **Baysmokes.com**
+13. **Baysmokes.com**
     - **Variety**: Specializes in cannabinoids including potential THC-O
+    - **Website**: [baysmokes.com](https://baysmokes.com)
 
-15. **Mountainstronghemp.com**
+14. **Mountainstronghemp.com**
     - **Products**: High-quality CBD hemp flower, Delta-8, and possibly THC-O
+    - **Website**: [mountainstronghemp.com](https://mountainstronghemp.com)
 
-16. **Area52.com**
+15. **Area52.com**
     - **Reputation**: Well-known for cannabinoid products, potential THC-O offerings
+    - **Website**: [area52.com](https://area52.com)
 
-17. **Utoya.com**
+16. **Utoya.com**
     - **Focus**: Cannabinoid products including possible THC-O variants
+    - **Website**: [utoya.com](https://utoya.com)
 
-18. **Binoid**
+17. **Binoid**
     - **Products**: THC-O vape cartridges in different strains
+    - **Website**: [binoid.com](https://binoid.com)
 
-19. **Leafly**
+18. **Leafly**
     - **Platform**: Offers THC-O and other cannabis products, with dispensary info
+    - **Website**: [leafly.com](https://leafly.com)
 
-20. **DazeD8**
+19. **DazeD8**
     - **Features**: Vape mixes with cannabinoids including THC-O, noted for potency
+    - **Website**: [dazed8.com](https://dazed8.com)
 
-21. **Infinite**
+20. **Infinite**
     - **Products**: Reliable THC-O vape cartridges, quality selection
+    - **Website**: [infinite.com](https://infinite.com)
 
-22. **Bearly Legal Hemp**
+21. **Bearly Legal Hemp**
     - **Specialization**: THC-O vapes, using 100% hemp-derived THC-O
+    - **Website**: [bearlylegalhemp.com](https://bearlylegalhemp.com)
 
-23. **Utoya Organics**
+22. **Utoya Organics**
     - **Range**: Includes THC-O tinctures, beverages, and edibles
+    - **Website**: [utoyaorganics.com](https://utoyaorganics.com)
 
-24. **I Love Growing Marijuana (ILGM)**
+23. **I Love Growing Marijuana (ILGM)**
     - **Recognition**: Highly regarded cannabis store, potential THC-O products
+    - **Website**: [ilgm.com](https://ilgm.com)
 
-25. **Everyone Does It**
+24. **Everyone Does It**
     - **Selection**: Wide array of cannabis-related products, potentially including THC-O
+    - **Website**: [everyonedoesit.com](https://everyonedoesit.com)
 
-26. **Green Goddess Supply**
+25. **Green Goddess Supply**
     - **Offerings**: Extensive cannabis product selection, potentially THC-O
+    - **Website**: [greengoddesssupply.com](https://greengoddesssupply.com)
 
-27. **Too Slick**
+26. **Too Slick**
     - **Range**: Diverse THC-O products including vaping, syrups, tinctures, and edibles
+    - **Website**: [tooslick.com](https://tooslick.com)
 
-28. **Vivimu**
-    - **Features**: High-quality Delta-8 THC (Clear) Distillate, praised for quality and shipping efficiency
-
-29. **Leafly**
-    - **Offerings**: Wide range of Delta-8 THC products, popular for cannabis information and dispensary options
-
-30. **Fern Valley Farms**
+27. **Fern Valley Farms**
     - **Products**: Delta-8 Distillate with various terpenes for customized effects
+    - **Website**: [fernvalleyfarms.com](https://fernvalleyfarms.com)
 
-31. **Ghost Vapors**
-    - **Products**: Bulk THC-O Acetate Distillate (Honey Gold Oil), versatile for dabbing, filling carts, and edibles
-
-32. **CannaClear**
+28. **CannaClear**
     - **Range**: Delta-8 THC products like gummies and tinctures, emphasizing quality
+    - **Website**: [cannaclear.com](https://cannaclear.com)
 
-33. **GenCanna**
+29. **GenCanna**
     - **Specialty**: Wholesale Delta-8 products including oils, gummies, carts, and vapes
+    - **Website**: [gencanna.com](https://gencanna.com)
 
-34. **Smoky Mountain CBD**
+30. **Smoky Mountain CBD**
     - **Reputation**: High customer satisfaction, quality Delta-8 products
+    - **Website**: [smokymountaincbd.com](https://smokymountaincbd.com)
 
-35. **Fresh Bros**
-    - **Acclaim**: Recognized for exceptional customer service and premium Delta-8 products
-
-36. **The Hemp Collect**
+31. **The Hemp Collect**
     - **Offerings**: Delta 8 Distillate for vaping or dabbing, prioritizing safety and potency
+    - **Website**: [thehempcollect.com](https://thehempcollect.com)
