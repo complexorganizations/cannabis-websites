@@ -170,36 +170,38 @@
 
 ---
 
-| Supplier                        | Delta-8 | HHC-P | HHC | THC-O | THC-A | CBD | CBN | CBG | THC-V | CBC | CBT | Other Products Offered                                              |
-| ------------------------------- | ------- | ----- | --- | ----- | ----- | --- | --- | --- | ----- | --- | --- | ------------------------------------------------------------------- |
-| Ghost Vapors                    | ✓       |       |     | ✓     |       |     |     |     |       |     |     | Bulk THC-O Acetate Distillate                                       |
-| CannaAid                        | ✓       |       |     |       |       |     |     |     |       |     |     | Delta-8 THC distillates                                             |
-| Extract Labs                    | ✓       |       |     |       |       |     |     |     |       |     |     | Bulk Delta-8 Distillate                                             |
-| Fresh Bros                      | ✓       |       |     |       |       |     |     |     |       |     |     | Delta-8 Distillate                                                  |
-| Vivimu                          | ✓       |       |     | ✓     |       |     |     |     |       |     |     | THC-O and other cannabinoids                                        |
-| Cbdfarmhouse.com                | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     | CBD, Delta-8, Delta-9, HHC, THC-O                                   |
-| Buydelta8online.com             | ✓       |       |     | ✓     |       |     |     |     |       |     |     | Delta-8 THC products, potential THC-O                               |
-| 8delta8.com                     | ✓       |       |     | ✓     |       |     |     |     |       |     |     | Delta-8 THC products, exploring THC-O options                       |
-| Snapdragonhemp.com              | ✓       |       |     | ✓     |       |     |     |     |       |     |     | Delta-8 and possibly THC-O products                                 |
-| Fluxxlab.com                    | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     | High-potency CBD, potentially THC-O                                 |
-| Bulkcbddistributors.com         |         |       |     | ✓     |       | ✓   |     |     |       |     |     | Wholesale CBD, hemp products, THC-O                                 |
-| Thehempconnection.org           |         |       |     | ✓     |       |     |     |     |       |     |     | Various cannabinoids including THC-O                                |
-| Baysmokes.com                   |         |       |     | ✓     |       |     |     |     |       |     |     | Specializes in cannabinoids including THC-O                         |
-| Mountainstronghemp.com          |         |       |     | ✓     |       | ✓   |     |     |       |     |     | CBD hemp flower, Delta-8, possibly THC-O                            |
-| Area52.com                      |         |       |     | ✓     |       |     |     |     |       |     |     | Well-known for cannabinoid products, potential THC-O                |
-| Utoya.com                       |         |       |     | ✓     |       |     |     |     |       |     |     | Cannabinoid products including THC-O variants                       |
-| Binoid                          |         |       |     | ✓     |       |     |     |     |       |     |     | THC-O vape cartridges                                               |
-| Leafly                          |         |       |     | ✓     |       |     |     |     |       |     |     | THC-O and other cannabis products                                   |
-| DazeD8                          |         |       |     | ✓     |       |     |     |     |       |     |     | Vape mixes with cannabinoids including THC-O                        |
-| Infinite                        |         |       |     | ✓     |       |     |     |     |       |     |     | THC-O vape cartridges                                               |
-| Bearly Legal Hemp               |         |       |     | ✓     |       |     |     |     |       |     |     | THC-O vapes using 100% hemp-derived THC-O                           |
-| Utoya Organics                  |         |       |     | ✓     |       |     |     |     |       |     |     | THC-O tinctures, beverages, edibles                                 |
-| I Love Growing Marijuana (ILGM) |         |       |     | ✓     |       |     |     |     |       |     |     | Potential THC-O products                                            |
-| Everyone Does It                |         |       |     | ✓     |       |     |     |     |       |     |     | Wide array of cannabis-related products, potentially THC-O          |
-| Green Goddess Supply            |         |       |     | ✓     |       |     |     |     |       |     |     | Extensive cannabis product selection, potentially THC-O             |
-| Too Slick                       |         |       |     | ✓     |       |     |     |     |       |     |     | Diverse THC-O products including vaping, syrups, tinctures, edibles |
-| Fern Valley Farms               |         |       |     |       |       |     |     |     |       |     |     | Delta-8 Distillate with various terpenes                            |
-| CannaClear                      | ✓       |       |     |       |       |     |     |     |       |     |     | Delta-8 THC products like gummies, tinctures                        |
-| GenCanna                        | ✓       |       |     |       |       |     |     |     |       |     |     | Wholesale Delta-8 products, oils, gummies, vapes                    |
-| Smoky Mountain CBD              |         |       |     |       |       |     |     |     |       |     |     | High customer satisfaction, quality Delta-8 products                |
-| The Hemp Collect                |         |       |     |       |       |     |     |     |       |     |     | Delta 8 Distillate, vaping or dabbing                               |
+# Cannabis Product Suppliers
+
+| Website                                                    | Delta-8 | HHC-P | HHC | THC-O | THC-A | CBD | CBN | CBG | THC-V | CBC | CBT |
+| ---------------------------------------------------------- | ------- | ----- | --- | ----- | ----- | --- | --- | --- | ----- | --- | --- |
+| [ghostvapors.com](https://ghostvapors.com)                 | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [cannaaid.com](https://cannaaid.com)                       | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [extractlabs.com](https://extractlabs.com)                 | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [freshbros.com](https://freshbros.com)                     | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [vivimu.com](https://vivimu.com)                           | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [cbdfarmhouse.com](https://cbdfarmhouse.com)               | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [buydelta8online.com](https://buydelta8online.com)         | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [8delta8.com](https://8delta8.com)                         | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [snapdragonhemp.com](https://snapdragonhemp.com)           | ✓       |       |     | ✓     |       |     |     |     |       |     |     |
+| [fluxxlab.com](https://fluxxlab.com)                       | ✓       |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [bulkcbddistributors.com](https://bulkcbddistributors.com) |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [thehempconnection.org](https://thehempconnection.org)     |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [baysmokes.com](https://baysmokes.com)                     |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [mountainstronghemp.com](https://mountainstronghemp.com)   |         |       |     | ✓     |       | ✓   |     |     |       |     |     |
+| [area52.com](https://area52.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [utoya.com](https://utoya.com)                             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [binoid.com](https://binoid.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [leafly.com](https://leafly.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [dazed8.com](https://dazed8.com)                           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [infinite.com](https://infinite.com)                       |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [bearlylegalhemp.com](https://bearlylegalhemp.com)         |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [utoyaorganics.com](https://utoyaorganics.com)             |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [ilgm.com](https://ilgm.com)                               |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [everyonedoesit.com](https://everyonedoesit.com)           |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [greengoddesssupply.com](https://greengoddesssupply.com)   |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [tooslick.com](https://tooslick.com)                       |         |       |     | ✓     |       |     |     |     |       |     |     |
+| [fernvalleyfarms.com](https://fernvalleyfarms.com)         |         |       |     |       |       |     |     |     |       |     |     |
+| [cannaclear.com](https://cannaclear.com)                   | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [gencanna.com](https://gencanna.com)                       | ✓       |       |     |       |       |     |     |     |       |     |     |
+| [smokymountaincbd.com](https://smokymountaincbd.com)       |         |       |     |       |       |     |     |     |       |     |     |
+| [hempcollect.org](https://hempcollect.org)                 |         |       |     |       |       |     |     |     |       |     |     |
