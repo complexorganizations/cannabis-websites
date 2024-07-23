@@ -205,3 +205,4 @@
 | [gencanna.com](https://gencanna.com)                       | ✓       |       |     |       |       |     |     |     |       |     |     |
 | [smokymountaincbd.com](https://smokymountaincbd.com)       |         |       |     |       |       |     |     |     |       |     |     |
 | [hempcollect.org](https://hempcollect.org)                 |         |       |     |       |       |     |     |     |       |     |     |
+| [gildedextracts.com](https://gildedextracts.com)           |         |       |     |       |       |     |     |     |       |     |     |
