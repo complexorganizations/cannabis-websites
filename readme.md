@@ -214,40 +214,90 @@ This comprehensive directory provides an up-to-date overview of reputable cannab
 
 ## Cannabinoid Availability Chart
 
-| Supplier                                                 | Delta-8 | Delta-9 | HHC | THC-O | CBD | CBG | CBN | THC-P | THCV | CBC | CBT |
-| -------------------------------------------------------- | ------- | ------- | --- | ----- | --- | --- | --- | ----- | ---- | --- | --- |
-| [Ghost Vapors](https://ghostvapors.com)                  | ✓       | ✓       |     | ✓     |     |     |     | ✓     |      |     |     |
-| [CannaAid](https://cannaaid.com)                         | ✓       |         |     | ✓     | ✓   |     |     |       | ✓    |     |     |
-| [Extract Labs](https://extractlabs.com)                  | ✓       |         |     |       | ✓   | ✓   | ✓   |       |      | ✓   | ✓   |
-| [Fresh Bros](https://freshbros.com)                      | ✓       |         | ✓   | ✓     | ✓   | ✓   | ✓   | ✓     | ✓    |     |     |
-| [Vivimu](https://vivimu.com)                             | ✓       |         | ✓   | ✓     | ✓   | ✓   | ✓   | ✓     | ✓    |     |     |
-| [CBD Farmhouse](https://cbdfarmhouse.com)                | ✓       | ✓       | ✓   |       | ✓   |     |     |       |      |     |     |
-| [Buy Delta 8 Online](https://buydelta8online.com)        | ✓       |         |     | ✓     | ✓   |     |     |       |      |     |     |
-| [8delta8](https://8delta8.com)                           | ✓       |         |     | ✓     |     |     |     |       |      |     |     |
-| [Snapdragon Hemp](https://snapdragonhemp.com)            | ✓       | ✓       | ✓   | ✓     | ✓   | ✓   | ✓   |       |      |     |     |
-| [Fluxxlab](https://fluxxlab.com)                         | ✓       |         |     | ✓     | ✓   |     |     |       |      |     |     |
-| [Bulk CBD Distributors](https://bulkcbddistributors.com) |         |         |     | ✓     | ✓   | ✓   | ✓   |       |      |     |     |
-| [The Hemp Connection](https://thehempconnection.org)     |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Bay Smokes](https://baysmokes.com)                      | ✓       |         | ✓   | ✓     | ✓   |     |     | ✓     |      |     |     |
-| [Mountain Strong Hemp](https://mountainstronghemp.com)   | ✓       |         |     | ✓     | ✓   |     |     | ✓     |      |     |     |
-| [Area52](https://area52.com)                             | ✓       | ✓       | ✓   | ✓     |     |     |     |       |      |     |     |
-| [Utoya](https://utoya.com)                               |         |         | ✓   | ✓     |     |     |     |       |      |     |     |
-| [Binoid](https://binoid.com)                             | ✓       |         | ✓   | ✓     |     |     |     | ✓     | ✓    |     |     |
-| [Leafly](https://leafly.com)                             |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [DazeD8](https://dazed8.com)                             |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Infinite](https://infinite.com)                         |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Bearly Legal Hemp](https://bearlylegalhemp.com)         | ✓       |         | ✓   | ✓     | ✓   |     |     |       |      |     |     |
-| [Utoya Organics](https://utoyaorganics.com)              | ✓       |         | ✓   | ✓     | ✓   |     |     |       |      |     |     |
-| [ILGM](https://ilgm.com)                                 |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Everyone Does It](https://everyonedoesit.com)           |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Green Goddess Supply](https://greengoddesssupply.com)   |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Too Slick](https://tooslick.com)                        |         |         |     | ✓     |     |     |     |       |      |     |     |
-| [Fern Valley Farms](https://fernvalleyfarms.com)         | ✓       |         |     |       | ✓   | ✓   | ✓   |       |      | ✓   |     |
-| [CannaClear](https://cannaclear.com)                     | ✓       |         |     |       |     |     |     |       |      |     |     |
-| [GenCanna](https://gencanna.com)                         | ✓       |         |     |       |     |     |     |       |      |     |     |
-| [Smoky Mountain CBD](https://smokymountaincbd.com)       | ✓       |         |     |       | ✓   |     |     |       |      |     |     |
-| [The Hemp Collect](https://thehempcollect.com)           | ✓       |         |     |       | ✓   |     |     |       |      |     |     |
-| [Gilded Extracts](https://gildedextracts.com)            | ✓       |         |     | ✓     |     |     |     |       |      |     |     |
+| Website                                                  | D8  | D9  | D10 | HHC | THC-O | CBD | CBG | CBN | THC-P | THCV | CBC | CBT | CBDA | CBGA | THCA | CBLA | CBDV | CBCA | CBNA | H4CBD | THCB | CBTC | CBND | CBGM | CBM | CBE | CBDB | CBDA-A | CBGA-A | CBNA-A | CBCA-A | CBCT | CBV | CBTV | CBLC | CBVD | CBTA | CBDA-B | CBGA-B | CBNA-B | CBCA-B | CBCT-B | CBV-B | CBTV-B | CBLC-B | CBVD-B | CBTA-B |
+| -------------------------------------------------------- | --- | --- | --- | --- | ----- | --- | --- | --- | ----- | ---- | --- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ---- | --- | --- | ---- | ------ | ------ | ------ | ------ | ---- | --- | ---- | ---- | ---- | ---- | ------ | ------ | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ------ |
+| [Extract Labs](https://extractlabs.com)                  | ✓   |     |     |     |       | ✓   | ✓   | ✓   |       |      | ✓   | ✓   |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [CBD Farmhouse](https://cbdfarmhouse.com)                | ✓   | ✓   |     | ✓   |       | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Ghost Vapors](https://ghostvapors.com)                  | ✓   | ✓   |     |     | ✓     |     |     |     | ✓     |      |     |     |      |      | ✓    |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [CannaAid](https://cannaaid.com)                         | ✓   |     | ✓   |     | ✓     | ✓   |     |     |       | ✓    |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Fresh Bros](https://freshbros.com)                      | ✓   |     |     | ✓   | ✓     | ✓   | ✓   | ✓   | ✓     | ✓    |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Vivimu](https://vivimu.com)                             | ✓   |     |     | ✓   | ✓     | ✓   | ✓   | ✓   | ✓     | ✓    |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Buy Delta 8 Online](https://buydelta8online.com)        | ✓   |     |     |     | ✓     | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [8delta8](https://8delta8.com)                           | ✓   |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Snapdragon Hemp](https://snapdragonhemp.com)            | ✓   | ✓   |     | ✓   | ✓     | ✓   | ✓   | ✓   |       |      |     |     |      |      | ✓    |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Fluxxlab](https://fluxxlab.com)                         | ✓   |     |     |     | ✓     | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Bulk CBD Distributors](https://bulkcbddistributors.com) |     |     |     |     | ✓     | ✓   | ✓   | ✓   |       |      |     |     |      |      | ✓    |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [The Hemp Connection](https://thehempconnection.org)     |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Bay Smokes](https://baysmokes.com)                      | ✓   |     |     | ✓   | ✓     | ✓   |     |     | ✓     |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Mountain Strong Hemp](https://mountainstronghemp.com)   | ✓   |     |     |     | ✓     | ✓   |     |     | ✓     |      |     |     |      |      | ✓    |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Area52](https://area52.com)                             | ✓   | ✓   |     | ✓   | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Utoya](https://utoya.com)                               |     |     |     | ✓   | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Binoid](https://binoid.com)                             | ✓   |     |     | ✓   | ✓     |     |     |     | ✓     | ✓    |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Leafly](https://leafly.com)                             |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [DazeD8](https://dazed8.com)                             | ✓   |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Infinite](https://infinite.com)                         | ✓   |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Bearly Legal Hemp](https://bearlylegalhemp.com)         | ✓   |     |     | ✓   | ✓     | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Utoya Organics](https://utoyaorganics.com)              | ✓   |     |     | ✓   | ✓     | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [ILGM](https://ilgm.com)                                 |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Everyone Does It](https://everyonedoesit.com)           |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Green Goddess Supply](https://greengoddesssupply.com)   |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Too Slick](https://tooslick.com)                        |     |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Fern Valley Farms](https://fernvalleyfarms.com)         | ✓   |     |     |     |       | ✓   | ✓   | ✓   |       |      | ✓   |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [CannaClear](https://cannaclear.com)                     | ✓   |     |     |     |       |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [GenCanna](https://gencanna.com)                         | ✓   |     |     |     |       |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Smoky Mountain CBD](https://smokymountaincbd.com)       | ✓   |     |     |     |       | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [The Hemp Collect](https://thehempcollect.com)           | ✓   |     |     |     |       | ✓   |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |        |        |        |        |
+| [Gilded Extracts](https://gildedextracts.com)            | ✓   |     |     |     | ✓     |     |     |     |       |      |     |     |      |      |      |      |      |      |      |       |      |      |      |      |     |     |      |        |        |        |        |      |     |      |      |      |      |        |        |        |        |        |       |
+
+Legend:
+
+- D8: Delta-8 THC
+- D9: Delta-9 THC
+- D10: Delta-10 THC
+- HHC: Hexahydrocannabinol
+- THC-O: THC-O Acetate
+- CBD: Cannabidiol
+- CBG: Cannabigerol
+- CBN: Cannabinol
+- THC-P: Tetrahydrocannabiphorol
+- THCV: Tetrahydrocannabivarin
+- CBC: Cannabichromene
+- CBT: Cannabicitran
+- CBDA: Cannabidiolic Acid
+- CBGA: Cannabigerolic Acid
+- THCA: Tetrahydrocannabinolic Acid
+- CBLA: Cannabicyclol
+- CBDV: Cannabidivarin
+- CBCA: Cannabichromenic Acid
+- CBNA: Cannabinolic Acid
+- H4CBD: Hydrogenated CBD
+- THCB: Tetrahydrocannabutol
+- CBTC: Cannabitriol
+- CBND: Cannabinodiol
+- CBGM: Cannabigerol Monomethyl Ether
+- CBM: Cannabimovone
+- CBE: Cannabielsoin
+- CBDB: Cannabidibutol
+- CBDA-A: Cannabidiolic Acid A
+- CBGA-A: Cannabigerolic Acid A
+- CBNA-A: Cannabinolic Acid A
+- CBCA-A: Cannabichromenic Acid A
+- CBCT: Cannabicitran
+- CBV: Cannabivarin
+- CBTV: Cannabitriolvarin
+- CBLC: Cannabicyclol
+- CBVD: Cannabidivarin
+- CBTA: Cannabitriolic Acid
+- CBDA-B: Cannabidiolic Acid B
+- CBGA-B: Cannabigerolic Acid B
+- CBNA-B: Cannabinolic Acid B
+- CBCA-B: Cannabichromenic Acid B
+- CBCT-B: Cannabicitran B
+- CBV-B: Cannabivarin B
+- CBTV-B: Cannabitriolvarin B
+- CBLC-B: Cannabicyclol B
+- CBVD-B: Cannabidivarin B
+- CBTA-B: Cannabitriolic Acid B
 
 ## Disclaimer
 
