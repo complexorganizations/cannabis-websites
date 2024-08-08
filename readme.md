@@ -30,8 +30,6 @@ We welcome contributions from anyone who shares our mission. Whether you have ex
 
 This project is intended for educational purposes only. We do not encourage illegal drug use. Cannabis should only be used where legal, and users should always follow local laws and regulations.
 
----
-
 # Cannabis Product Suppliers Directory
 
 ## Table of Contents
