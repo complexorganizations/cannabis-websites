@@ -1,6 +1,6 @@
 # Cannabis Websites
 
-Welcome to the **Cannabis Websites** repository! This project is designed with a clear mission: to help individuals transition from harmful street drugs, such as K2 (synthetic cannabinoids) or other unknown substances, to a safer, regulated alternative—cannabis.
+Welcome to the **Cannabis Websites** repository! This project is designed with a clear mission: to help individuals transition from harmful street drugs, such as K2 (synthetic cannabinoids) or other unknown substances, to a safer, regulated alternative cannabis.
 
 ## Purpose
 
